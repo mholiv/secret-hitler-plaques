@@ -1,8 +1,6 @@
 # Secret Hitler Plaques
 Do you love your home brew version of the [secret hitler](https://www.secrethitler.com/) game, but always where anyoyed with trying to remember who was the former chancellor and president? Fear not! With these title plaques you will never worry again! Now featuring authentic German!
 
-
-![]()
 ![Render of 4 Plaques](https://raw.githubusercontent.com/mholiv/secret-hitler-plaques/master/render.jpeg)
 
 ![Photo of 4 Plaques](https://raw.githubusercontent.com/mholiv/secret-hitler-plaques/master/printed.jpeg)
