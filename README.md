@@ -21,4 +21,4 @@ Layer Height: 0.15mm
 ```
 
 ## OpenScad Code
-The instructions on how to render 
+The instructions on how to render are in the scad file.
